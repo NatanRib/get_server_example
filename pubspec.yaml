@@ -1,0 +1,4 @@
+name: get_server_example
+
+dependencies:
+  get_server:
